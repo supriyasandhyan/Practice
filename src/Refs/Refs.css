@@ -1,0 +1,31 @@
+.Refs{
+    text-align: center;
+    padding-top: 10%;
+    background-color: rgb(224, 193, 206);
+    height: 100vh;
+}
+
+.Refs input{
+    display: block;
+    width: 350px ;
+    padding: 6px 12px ;
+    font-size: 15px ;
+    line-height: 1.5 ;
+    color: rgb(73, 71, 71) ;
+    background-color: white;
+    border: 1px solid rgb(12, 12, 12) ;
+    border-radius: 15px ;
+    margin-left: 36%;
+  }
+
+.Refs span{
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-left: 36%;    
+} 
+
+.Refs button{
+    margin-top: 10px;
+    
+}
